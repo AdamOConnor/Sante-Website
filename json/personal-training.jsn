@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Personal Training",
+    "year": "./images/personal_training.jpg",
+    "info" : [
+       "Sessions last an hour.",
+       "I will ensure that you will be listened to and we will work as a team to achieve your goals.",
+       "Each session we will progress you closer to that goal."
+    ]
+  }
+]
